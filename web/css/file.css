@@ -1,0 +1,22 @@
+h1 {
+    margin: auto;
+    margin-bottom: 40px;
+    color: #0065ca;
+    width: 500px;
+}
+body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: #ffffff;
+    padding: 0 30px 20px 20px;
+}
+p#todos{
+    margin: auto;
+    margin-top: 25px;
+    margin-bottom: 5px;
+    color: #000000;
+    padding: 0 30px 20px 20px;
+
+
+}
+
